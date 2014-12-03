@@ -1,0 +1,16 @@
+{
+  "name": "gulp-gitftp",
+  "version": "1.0.0",
+  "description": "Simple git-ftp upload tasks w/ gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masaaki Komori",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-shell": "^0.2.11",
+    "gulp-util": "^3.0.1"
+  }
+}
